@@ -1,0 +1,17 @@
+query_0.png | True: a red circle | Generated: a red circle
+Tokens: <bos> -> a -> red -> circle -> <eos>
+
+query_1.png | True: a red square | Generated: a red square
+Tokens: <bos> -> a -> red -> square -> <eos>
+
+query_2.png | True: a green circle | Generated: a green circle
+Tokens: <bos> -> a -> green -> circle -> <eos>
+
+query_3.png | True: a green square | Generated: a green square
+Tokens: <bos> -> a -> green -> square -> <eos>
+
+query_4.png | True: a blue circle | Generated: a blue circle
+Tokens: <bos> -> a -> blue -> circle -> <eos>
+
+query_5.png | True: a blue square | Generated: a blue square
+Tokens: <bos> -> a -> blue -> square -> <eos>

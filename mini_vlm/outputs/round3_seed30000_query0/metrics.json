@@ -1,0 +1,10 @@
+{
+  "seed": 30000,
+  "num_samples": 120,
+  "correct_counts": {
+    "normal": 120,
+    "blank": 20,
+    "swapped_vs_original": 0,
+    "swapped_vs_actual_image": 120
+  }
+}
